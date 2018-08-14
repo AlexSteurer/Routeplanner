@@ -1,0 +1,7 @@
+{
+  "name": "Routeplanner",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
